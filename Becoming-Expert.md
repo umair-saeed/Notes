@@ -1,6 +1,6 @@
 # How to Apply Bloom's Taxonomy to Become an Expert
 
-![Bloom's Taxonomy](./Blooms-Taxonomy.png)
+![Bloom's Taxonomy](./Blooms-Taxonomy.jpg)
 
 Bloom's taxonomy is a framework used in education to categorize learning objectives into different levels of cognitive complexity. It consists of six levels: remembering, understanding, applying, analyzing, evaluating, and creating. You can apply Bloom's taxonomy to become an expert in anything by systematically progressing through these levels in your learning process. Here's how:
 
