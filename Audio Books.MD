@@ -56,8 +56,10 @@ _Appreciate your current place in the journey._
 
 - **Overthinking Can Kill Small Joys**
 
-<h1 style="text-align: center;">Atomic Habits by James Clear</h1>
- 
+
+<pre>
+## Atomic Habits by James Clear
+</pre> 
 
 - **Hard to Miss Cues and a Plan of Action**
   - Change your surroundings to encourage better habits.
